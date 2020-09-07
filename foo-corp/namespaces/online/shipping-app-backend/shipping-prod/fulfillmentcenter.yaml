@@ -3,4 +3,4 @@ apiVersion: foo-corp.com/v1
 metadata:
   name: production
 spec:
-  address: "600 Industry St."
+  address: "500 Industry St."
